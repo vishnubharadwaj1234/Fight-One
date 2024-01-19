@@ -6,4 +6,4 @@ It is a text based figthing game where the player can choose from 4 moves that w
 
 This implements cooldowns, blocking, and effects like burning.
 
-Made and run using Eclipse.
+Made and run using Eclipse, and you can find the file through FightProject --> src --> pack --> Fight1.java
